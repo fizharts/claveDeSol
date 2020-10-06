@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #428bca;
+  color: #ff701d;
 }
 
 a:hover {
-  color: #9eccf4;
+  color: #ff701d;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   border-radius: 3px;
   right: 15px;
   bottom: 15px;
-  background: #428bca;
+  background: #ff701d;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 .back-to-top:hover {
   color: #fff;
-  background: #629fd3;
+  background: #ff701d;
   transition: background 0.2s ease-in-out;
 }
 
